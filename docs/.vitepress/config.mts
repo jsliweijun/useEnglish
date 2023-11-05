@@ -46,6 +46,19 @@ export default defineConfig({
                         { text: 'Day 13', link: '/01_beginner/02_theSecondWeek/06' },
                         { text: 'Day 14', link: '/01_beginner/02_theSecondWeek/07' }
                     ]
+                },
+                {
+                    text: '第七周',
+                    collapsed: true,
+                    items: [
+                        { text: 'Day 43', link: '/01_beginner/07/01_85-86' },
+                        { text: 'Day 44', link: '/01_beginner/07/02_87-88' },
+                        { text: 'Day 45', link: '/01_beginner/07/03_89-90' },
+                        { text: 'Day 46', link: '/01_beginner/07/04_91-92' },
+                        { text: 'Day 47', link: '/01_beginner/07/05_93-94' },
+                        { text: 'Day 48', link: '/01_beginner/07/06_95-96' },
+                        { text: 'Day 49', link: '/01_beginner/07/07_97-98' }
+                    ]
                 }
             ]
 
