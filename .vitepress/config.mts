@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
+    base: '/useEnglish/',
     title: 'use English',
     description: 'test',
     themeConfig: {
