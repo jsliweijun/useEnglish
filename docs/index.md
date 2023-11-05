@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-    name: 'use English'
+    name: 'Use English'
     # text: 'test'
     # tagline: My great project tagline
     # actions:
